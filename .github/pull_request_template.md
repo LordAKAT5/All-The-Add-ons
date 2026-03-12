@@ -26,8 +26,7 @@ How has this been tested?
 - [ ] My changes generate no new warnings
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
-- [ ] I have run `cargo fmt`
-- [ ] I have run `cargo clippy`
+- [ ] I have formatted my code
 
 ## Related Issues
 Closes #(issue number)
