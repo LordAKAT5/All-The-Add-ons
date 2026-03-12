@@ -1,6 +1,6 @@
 # Bug Issue
 
-## 📌 Título
+## Título
 
 Resumo curto do bug.
 
@@ -9,7 +9,7 @@ Wallet não salva moedas após reiniciar o mundo
 
 ---
 
-# 📄 Descrição
+# Descrição
 
 Explique claramente o que está acontecendo.
 
@@ -18,7 +18,7 @@ Explique claramente o que está acontecendo.
 
 ---
 
-# 🔁 Passos para Reproduzir
+# Passos para Reproduzir
 
 Liste exatamente o que fazer para reproduzir o bug.
 
@@ -30,7 +30,7 @@ Liste exatamente o que fazer para reproduzir o bug.
 
 ---
 
-# ✅ Resultado Esperado
+# Resultado Esperado
 
 Descreva o comportamento correto.
 
@@ -40,7 +40,7 @@ A Wallet deveria manter todas as moedas armazenadas.
 
 ---
 
-# ❌ Resultado Atual
+# Resultado Atual
 
 Explique o comportamento atual.
 
@@ -50,7 +50,7 @@ A Wallet volta vazia após reiniciar o mundo.
 
 ---
 
-# 🌍 Ambiente
+# Ambiente
 
 Informações do ambiente onde o bug ocorreu.
 
@@ -61,7 +61,7 @@ Informações do ambiente onde o bug ocorreu.
 
 ---
 
-# 📦 Sistema Afetado
+# Sistema Afetado
 
 Marque qual parte do addon está relacionada.
 
@@ -87,7 +87,7 @@ Se possível adicione:
 
 ---
 
-# 🧠 Notas Técnicas (Opcional)
+# Notas Técnicas (Opcional)
 
 Informações úteis para debug.
 
@@ -98,7 +98,7 @@ Exemplo:
 
 ---
 
-# 🔥 Prioridade
+# Prioridade
 
 - [ ] Baixa
 - [ ] Média
@@ -107,7 +107,7 @@ Exemplo:
 
 ---
 
-# 📋 Checklist
+# Checklist
 
 - [ ] Bug reproduzido
 - [ ] Sistema identificado
