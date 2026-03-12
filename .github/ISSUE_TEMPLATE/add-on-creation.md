@@ -9,7 +9,7 @@ assignees: ''
 
 # Addon
 
-#### Observação Prévia: Toda a codebase DEVE ser documentada e escrita de preferência em Typescript. 
+#### Observação Prévia: Toda a codebase DEVE ser documentada e escrita de preferência em Typescript e os commits feitos via [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 # Nome Do Addon
 
