@@ -1,38 +1,116 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+# Bug Issue
+
+## 📌 Título
+
+Resumo curto do bug.
+
+Exemplo:
+Wallet não salva moedas após reiniciar o mundo
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# 📄 Descrição
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Explique claramente o que está acontecendo.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+- O que deveria acontecer
+- O que realmente aconteceu
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+---
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+# 🔁 Passos para Reproduzir
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+Liste exatamente o que fazer para reproduzir o bug.
 
-**Additional context**
-Add any other context about the problem here.
+1. Criar mundo
+2. Pegar uma Wallet
+3. Colocar moedas dentro
+4. Sair do mundo
+5. Entrar novamente
+
+---
+
+# ✅ Resultado Esperado
+
+Descreva o comportamento correto.
+
+Exemplo:
+
+A Wallet deveria manter todas as moedas armazenadas.
+
+---
+
+# ❌ Resultado Atual
+
+Explique o comportamento atual.
+
+Exemplo:
+
+A Wallet volta vazia após reiniciar o mundo.
+
+---
+
+# 🌍 Ambiente
+
+Informações do ambiente onde o bug ocorreu.
+
+- Minecraft Version:
+- Platform: (Windows / Android / iOS / Xbox / etc)
+- Game Mode: (Singleplayer / Realm / Server)
+- Addon Version:
+
+---
+
+# 📦 Sistema Afetado
+
+Marque qual parte do addon está relacionada.
+
+- [ ] Items
+- [ ] Blocks
+- [ ] Entities
+- [ ] UI
+- [ ] Scripts
+- [ ] Economy
+- [ ] Multiplayer
+- [ ] Save System
+
+---
+
+# 📷 Evidências
+
+Se possível adicione:
+
+- screenshots
+- vídeos
+- logs
+- mensagens de erro
+
+---
+
+# 🧠 Notas Técnicas (Opcional)
+
+Informações úteis para debug.
+
+Exemplo:
+
+- Dynamic Property parece não estar salvando
+- Pode estar relacionado ao evento `worldInitialize`
+
+---
+
+# 🔥 Prioridade
+
+- [ ] Baixa
+- [ ] Média
+- [ ] Alta
+- [ ] Crítico
+
+---
+
+# 📋 Checklist
+
+- [ ] Bug reproduzido
+- [ ] Sistema identificado
+- [ ] Possível causa encontrada
+- [ ] Corrigido
+- [ ] Testado
