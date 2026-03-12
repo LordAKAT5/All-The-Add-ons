@@ -1,4 +1,4 @@
-# 🎯 Addon
+# Addon
 
 #### Observação Prévia: Toda a codebase DEVE ser documentada e escrita de preferência em Typescript. 
 
@@ -6,7 +6,7 @@
 
 Exemplo: Wallet System
 
-## 📄 Description
+## Description
 
 Explique o que o addon se propõe. E o que seria o addon de uma forma geral
 
@@ -25,7 +25,7 @@ Explique o que o addon se propõe. E o que seria o addon de uma forma geral
 * Como o sistema é usado pelo user.
 * Explique regras importantes do projeto e edge cases
 
-### 🧠 Gameplay
+### Gameplay
 * Diga como o player é idealizado pra jogar o addon
 * Se houver progressão, escreva como o player deve fazer essa progressão e se sistemas do addon houverem algum tipo de ligação, descreva como eles se ligam
 
@@ -35,7 +35,7 @@ Explique o que o addon se propõe. E o que seria o addon de uma forma geral
 * Dê imagens de referência pra como a UI deve ficar no final
 * Exemplifique o que cada coisa da UI faz
 
-### 🔊 Assets
+### Assets
 
 Defina que tipos de assets serão necessários, comos:
 * Texturas
@@ -43,7 +43,7 @@ Defina que tipos de assets serão necessários, comos:
 * Modelos
 * Animações
 
-### 📖 Guidebook
+### Guidebook
 
 * Conteúdo que precisa entrar no guia.
 * Explicação da feature
@@ -51,7 +51,7 @@ Defina que tipos de assets serão necessários, comos:
 * Exemplos
 
 
-### 📦 Marketplace Requirements
+### Marketplace Requirements
 
 Defina coisas que são necessárias pra a submissão no market place:
 * Icons finalizados
